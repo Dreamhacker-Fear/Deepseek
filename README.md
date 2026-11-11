@@ -1,4 +1,4 @@
-# Deepseek Backend
+# Fuck you brawlstars Backend
 
 This repository now includes a small Node.js backend that serves the existing app and proxies requests to the official Brawl Stars API.
 
